@@ -1,4 +1,4 @@
-**Gold Price Time Series Analysis and Forecasting**
+**Gold Price Forecasting: Time Series Analysis & Predictive Insights in Python**
 
 
 The time series used in the code is the monthly gold price data. The data represents the monthly average prices of gold from January 1950 to August 2020. The time series is structured with monthly observations, and the analysis and forecasting techniques implemented in the code are applied to understand patterns, trends, and make predictions based on this historical gold price data. The time series is processed, visualized, and modeled using various statistical and machine learning techniques to gain insights and make predictions about future gold prices.
